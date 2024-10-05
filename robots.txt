@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://wusufabiwiya.pages.dev/sitemap.xml
